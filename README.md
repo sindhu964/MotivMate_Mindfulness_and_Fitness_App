@@ -24,6 +24,6 @@ MotivMate is a work in progress, with several features under development. Contri
 **License**📄    
 *This project is currently unlicensed. Use of the code is not permitted without explicit permission.*     
 
-![SignIn](assets/signin.jpeg)       ![Home](assets/home_page.jpeg)
+![SignIn](assets/signin.jpeg)       
 
 
